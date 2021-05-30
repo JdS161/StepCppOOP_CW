@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vasilchenko_Cpp_OOP(les2)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vasilchenko_Cpp_OOP(les3)", "..\Vasilchenko_Cpp_OOP(les3)\Vasilchenko_Cpp_OOP(les3).vcxproj", "{2CD791B1-97DA-4401-B113-AC6B340531E0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vasilchenko_Cpp_OOP(les4)", "..\Vasilchenko_Cpp_OOP(les4)\Vasilchenko_Cpp_OOP(les4).vcxproj", "{68E09E0B-CC68-4090-AFDB-CB885D3501C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2CD791B1-97DA-4401-B113-AC6B340531E0}.Release|x64.Build.0 = Release|x64
 		{2CD791B1-97DA-4401-B113-AC6B340531E0}.Release|x86.ActiveCfg = Release|Win32
 		{2CD791B1-97DA-4401-B113-AC6B340531E0}.Release|x86.Build.0 = Release|Win32
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Debug|x64.ActiveCfg = Debug|x64
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Debug|x64.Build.0 = Debug|x64
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Debug|x86.Build.0 = Debug|Win32
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Release|x64.ActiveCfg = Release|x64
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Release|x64.Build.0 = Release|x64
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Release|x86.ActiveCfg = Release|Win32
+		{68E09E0B-CC68-4090-AFDB-CB885D3501C0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
